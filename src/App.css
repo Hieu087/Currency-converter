@@ -1,0 +1,28 @@
+body {
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+
+.App .convert-section input {
+  width: 20vw;
+  height: 2.5vh;
+  padding: .5em;
+  border: 1px solid #555555;
+  border-radius: .25em;
+  outline: none;
+}
+
+.App .convert-section select {
+  margin: 1em;
+}
+/*# sourceMappingURL=App.css.map */
